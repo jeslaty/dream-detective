@@ -7,4 +7,4 @@ export const firebaseConfig = {
 };
 
 // 老師登入 Google 的電子郵件
-export const teacherEmail = 'jeslaty@mail.ilc.edu.tw';
+export const teacherEmail = 'jeslaty@tmail.ilc.edu.tw';
